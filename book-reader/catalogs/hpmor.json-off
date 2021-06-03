@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Рациональное мышление",
+  "home": {
+    "get": "http://hpmor.ru"
+  },
+  "opds": {
+    "root": "http://hpmor.ru/files/opds2.xml",
+    "get": "http://hpmor.ru/files/opds2.xml"
+  }
+}

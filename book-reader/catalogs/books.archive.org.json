@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "Internet Archive",
+  "home": {
+    "get": "https://archive.org"
+  },
+  "opds": {
+    "root": "https://bookserver.archive.org",
+    "search": "https://bookserver.archive.org/opensearch?q={searchTerms}",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "https://bookserver.archive.org/new",
+    "Top": "https://bookserver.archive.org/downloads.xml",
+    "Boston": "https://bookserver.archive.org/group/bostonpubliclibrary"
+  }
+}

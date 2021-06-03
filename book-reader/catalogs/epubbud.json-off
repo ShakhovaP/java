@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "ePubBud catalog",
+  "home": {
+    "get": "http://www.epubbud.com"
+  },
+  "opds": {
+    "root": "http://www.epubbud.com/feeds/catalog.atom",
+    "search": "http://www.epubbud.com/search.php?q={searchTerms}&p={startPage?}&format=atom",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "http://www.epubbud.com/feeds/recent.atom",
+    "Top": "http://www.epubbud.com/feeds/top.atom"
+  }
+}

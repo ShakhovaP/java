@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Shucang Catalog",
+  "home": {
+    "get": "http://www.shucang.org"
+  },
+  "opds": {
+    "root": "http://www.shucang.org/s/index.php",
+    "search": "http://www.shucang.org/s/doclist.php?skey={searchTerms}"
+  }
+}

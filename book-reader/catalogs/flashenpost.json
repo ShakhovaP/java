@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Flashenpost",
+  "home": {
+    "get": "http://flaschenpost.piratenpartei.de"
+  },
+  "opds": {
+    "root": "http://flaschenpost.piratenpartei.de/catalog/",
+    "get": "https://flaschenpost.piratenpartei.de/catalog/date/all.xml"
+  }
+}

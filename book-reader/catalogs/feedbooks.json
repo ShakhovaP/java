@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Feedbooks OPDS Catalog",
+  "home": {
+    "get": "http://www.feedbooks.com"
+  },
+  "opds": {
+    "root": "http://www.feedbooks.com/catalog.atom",
+    "search": "http://www.feedbooks.com/search.atom?query={searchTerms}",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "http://www.feedbooks.com/books/recent.atom",
+    "Top": "http://www.feedbooks.com/books/top.atom?range=week",
+    "Classics": "http://www.feedbooks.com/store/top.atom?category=FBFIC004000",
+    "Science Fiction": "http://www.feedbooks.com/store/top.atom?category=FBFIC028000",
+    "Humorous": "http://www.feedbooks.com/store/top.atom?category=FBFIC016000",
+    "Fantasy": "http://www.feedbooks.com/store/top.atom?category=FBFIC009000"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "ManyBooks Catalog",
+  "home": {
+    "get": "http://manybooks.net"
+  },
+  "opds": {
+    "root": "http://manybooks.net/opds/",
+    "search": "http://manybooks.net/opds/search.php?q={searchTerms}",
+    "get": "tops"
+  },
+  "tops": {
+      "Recent": "http://manybooks.net/opds/new_titles.php",
+      "Classic": "http://manybooks.net/opds/title_detail.php?tid=various2162921629-8",
+      "Fantasy": "http://manybooks.net/opds/genres.php?code=FAN",
+      "Fiction": "http://manybooks.net/opds/genres.php?code=FIC",
+      "Humor": "http://manybooks.net/opds/genres.php?code=HUM"
+  }
+}

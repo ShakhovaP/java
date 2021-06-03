@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-reader.iml" filepath="$PROJECT_DIR$/.idea/modules/book-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-fbreader-library/book-reader.android-fbreader-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-fbreader-library/book-reader.android-fbreader-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-library/book-reader.android-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-library/book-reader.android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/book-reader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/book-reader.app.iml" />
+    </modules>
+  </component>
+</project>

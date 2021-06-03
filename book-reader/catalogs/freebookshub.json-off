@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "name": "Free Books Hub",
+  "home": {
+    "get": "http://www.freebookshub.com"
+  },
+  "opds": {
+    "root": "http://www.freebookshub.com/feed/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "Qumran EN",
+  "home": {
+    "get": "http://ebooks.qumran.org/?lang=en"
+  },
+  "opds": {
+    "root": "http://ebooks.qumran.org/opds/?lang=en",
+    "ignore": [ "Start Page", "Order alphabetically", "Order by Author", "Order by Date" ],
+    "search": "http://ebooks.qumran.org/opds/?lang=en&pageformat=opds&prefix=searchresults&q={searchTerms}",
+    "get": "https://ebooks.qumran.org/opds/index.php?prefix=titles&amp;lang=en"
+  }
+}

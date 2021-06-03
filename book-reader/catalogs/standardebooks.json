@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Standard Ebooks",
+  "home": {
+    "get": "https://standardebooks.org"
+  },
+  "opds": {
+    "root": "https://standardebooks.org/opds/",
+    "get": "https://standardebooks.org/opds/all"
+  }
+}

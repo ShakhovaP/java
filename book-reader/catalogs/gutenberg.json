@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "name": "Project Gutenberg",
+  "home": {
+    "get": "http://www.gutenberg.org"
+  },
+  "opds": {
+    "ignore": [ "Start Page", "Order alphabetically", "Order by Author", "Order by Date", "Sort Alphabetically", "Sort by Popularity", "Follow new books on Facebook", "Follow new books on Twitter", "Sort by Release Date", "Authors", "Subjects", "Did you mean:*", "Bookshelves" ],
+    "root": "http://m.gutenberg.org/ebooks/?format=opds",
+    "search": "http://m.gutenberg.org/ebooks/search.opds/?query={searchTerms}",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "http://m.gutenberg.org/ebooks/search.opds/?sort_order=release_date",
+    "Top": "http://m.gutenberg.org/ebooks/search.opds/?sort_order=downloads",
+    "Random": "http://m.gutenberg.org/ebooks/search.opds/?sort_order=random"
+  }
+}

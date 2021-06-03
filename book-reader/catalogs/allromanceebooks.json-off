@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "All Romance",
+  "home": {
+    "get": "http://www.allromanceebooks.com"
+  },
+  "opds": {
+    "root": "http://www.allromanceebooks.com/epub-feed.xml",
+    "search": "http://www.allromanceebooks.com/epub-feed.xml?search={searchTerms}"
+  }
+}

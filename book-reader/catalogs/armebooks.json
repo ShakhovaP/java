@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "ՅԱՎՐՈՒՀՐԱՏ eBooks",
+  "home": {
+    "get": "http://armebooks.fbreader.org"
+  },
+  "opds": {
+    "root": "http://armebooks.fbreader.org/books/index.xml",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "http://armebooks.fbreader.org/books/recent/recent_SIXMONTHS_Page_1.xml",
+    "Top": "http://armebooks.fbreader.org/books/rated/rated_NOTRATED_Page_1.xml",
+    "All": "http://armebooks.fbreader.org/books/allbooks/allbooks_Page_1.xml"
+  }
+}

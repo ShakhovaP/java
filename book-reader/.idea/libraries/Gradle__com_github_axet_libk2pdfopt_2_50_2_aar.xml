@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.axet:libk2pdfopt:2.50-2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3381e5624e8f79107016ea2606c7a04/libk2pdfopt-2.50-2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3381e5624e8f79107016ea2606c7a04/libk2pdfopt-2.50-2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3381e5624e8f79107016ea2606c7a04/libk2pdfopt-2.50-2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

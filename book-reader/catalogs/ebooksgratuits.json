@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Ebooks libres et gratuits",
+  "home": {
+    "get": "http://www.ebooksgratuits.com"
+  },
+  "opds": {
+    "root": "http://www.ebooksgratuits.com/opds/index.php",
+    "search": "http://www.ebooksgratuits.com/opds/feed.php?mode=search&query={searchTerms}",
+    "get": "tops"
+  },
+  "tops": {
+    "Recents": "https://www.ebooksgratuits.com/opds/feed.php",
+    "Top": "https://www.ebooksgratuits.com/opds/feed.php?mode=rate",
+    "Aventures": "https://www.ebooksgratuits.com/opds/feed.php?mode=genre&id=2",
+    "Fantastique": "https://www.ebooksgratuits.com/opds/feed.php?mode=genre&id=3",
+    "Historique": "https://www.ebooksgratuits.com/opds/feed.php?mode=genre&id=4",
+    "Humour": "https://www.ebooksgratuits.com/opds/feed.php?mode=genre&id=7"
+  }
+}

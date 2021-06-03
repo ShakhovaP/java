@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Прочтение",
+  "home": {
+    "get": "http://prochtenie.ru"
+  },
+  "opds": {
+    "root": "http://data.fbreader.org/catalogs/prochtenie/index.xml",
+    "get": "http://data.fbreader.org/catalogs/prochtenie/index.xml"
+  }
+}
