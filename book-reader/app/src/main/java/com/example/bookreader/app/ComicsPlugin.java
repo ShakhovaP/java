@@ -49,7 +49,6 @@ import de.innosystec.unrar.rarfile.FileHeader;
 
 public class ComicsPlugin extends BuiltinFormatPlugin implements Plugin {
     public static String TAG = ComicsPlugin.class.getSimpleName();
-
     public static final String CBZ = "cbz";
     public static final String CBR = "cbr";
 
